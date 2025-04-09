@@ -7,4 +7,4 @@ In order to use these files you need:
 - QT 6.9.0
 
 Download of a current Release Version:
---> https://drive.google.com/drive/folders/1KAinUr9ans0_yc8Ny3-jR84XAlSVp_Qv?usp=drive_link 
+--> https://drive.google.com/drive/folders/1KAinUr9ans0_yc8Ny3-jR84XAlSVp_Qv?usp=sharing 
