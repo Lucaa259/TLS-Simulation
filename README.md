@@ -3,7 +3,7 @@ Implementation for simulating Server and Client during a TLS-secured communicati
 
 In order to use these files you need:
 - OpenSSL 3.4.1
-- Boost(.Asio)
+- Boost(.Asio) 1.87.0
 - QT 6.9.0
 
   
